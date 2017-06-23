@@ -1,2 +1,2 @@
-# hello-worlg
-A new Hello World project
+# hello-world
+My name is Rick and I am working through the Hello World tutorial.
